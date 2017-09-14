@@ -64,7 +64,11 @@ https://gis.fema.gov/REST/services/NSS/FEMA_NSS/MapServer
 Shelter scraper scripts: https://github.com/simonw/irma-scrapers
 
 
+Sample JSON:
 
+- [Organization](https://gist.github.com/kinlane/fd2cdf612e62bbb5fb5ed54255c8caf9)
+-- [Location](https://gist.github.com/kinlane/7551310cf5ece445ee50ccce0b5a0f7a)
+- [Service](https://gist.github.com/kinlane/e75ee0bc957c101bb415e1155fe63f29)
 
 
 
