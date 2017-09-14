@@ -22,7 +22,9 @@ Ohana Web Search - https://github.com/codeforamerica/ohana-web-search
 
 User Personas and User stories - https://docs.google.com/document/d/1XqueBVbRVgR0BVGjDbUdN4suUYfMKm7yJm1f3nRsGtY/edit 
 
-
+Dedupe.io - ACCOUNT: 
+login: greg.bloom@gmail.com
+pw: 6bJtMk*iLE7m
 
 
 ## User Story: Data Editor
