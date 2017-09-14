@@ -1,6 +1,8 @@
 # Blackrock
 This is the Github repo for the Blackrock hackathon / code sprint.
 
+Our slack channel: https://irma-response.slack.com/messages/C73A1R8KF/convo/C70QQVCP3-1505396782.000535/
+
 
 ##Open Referral Initiative links
 
