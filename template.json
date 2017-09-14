@@ -1,0 +1,7 @@
+{
+    "title": $title,
+    "subtitle": $subtitle,
+    "List": [
+        $list
+    ]
+}
