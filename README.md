@@ -54,6 +54,8 @@ FEMA APIs:
 https://gis.fema.gov/arcgis/rest/services/NSS/OpenShelters/MapServer
 https://gis.fema.gov/REST/services/NSS/FEMA_NSS/MapServer
 
+Shelter scraper scripts: https://github.com/simonw/irma-scrapers
+
 
 
 
