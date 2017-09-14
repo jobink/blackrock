@@ -14,6 +14,8 @@ Human Services Data Specification (HSDS) Docs - https://openreferral.readthedocs
 
 Human Services Data API (HSDA) Docs - https://openreferral.github.io/api-specification/hsda/
 
+HSDS Sample Data - https://github.com/openreferral/sample-data
+
 OpenAPI Quick Link - https://github.com/openreferral/api-specification/blob/master/_data/api-commons/openapi-hsda.yaml
 
 Demo API Portal - http://developer.open.referral.adopta.agency/
@@ -23,6 +25,8 @@ Ohana API (Previous reference implementation) -  https://github.com/codeforameri
 Ohana Web Search - https://github.com/codeforamerica/ohana-web-search
 
 User Personas and User stories - https://docs.google.com/document/d/1XqueBVbRVgR0BVGjDbUdN4suUYfMKm7yJm1f3nRsGtY/edit 
+
+
 
 Dedupe.io - ACCOUNT: 
 login: greg.bloom@gmail.com
@@ -49,6 +53,7 @@ Shelter-scraper channel: https://irma-response.slack.com/messages/C70QQVCP3/deta
 Shelter-scraper repository: https://github.com/simonw/irma-scrapers
 
 Miami Open211 API: https://miami.open.211.adopta.agency
+Miami Open211 source data: https://drive.google.com/drive/folders/0B3YdI6zzzaUXckhmM24zNUZYdGs?usp=gmail
 
 Irma Shelters API: https://irma-api.herokuapp.com/shelters/
 
@@ -59,11 +64,8 @@ https://gis.fema.gov/REST/services/NSS/FEMA_NSS/MapServer
 Shelter scraper scripts: https://github.com/simonw/irma-scrapers
 
 
-Sample HSDA:
 
-- [Location](https://gist.github.com/kinlane/7551310cf5ece445ee50ccce0b5a0f7a)
-- [Organization](https://gist.github.com/kinlane/fd2cdf612e62bbb5fb5ed54255c8caf9)
-- [Service](https://gist.github.com/kinlane/e75ee0bc957c101bb415e1155fe63f29)
+
 
 
 Use Github Issues for Questions!
